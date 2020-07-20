@@ -1,1 +1,1 @@
-# google-homepage
+This is my first project in HTML/CSS: I will try to replicate the visual aspects of the Google homepage. 
